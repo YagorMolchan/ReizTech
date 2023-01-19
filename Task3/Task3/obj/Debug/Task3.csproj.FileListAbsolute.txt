@@ -1,0 +1,8 @@
+E:\ReizTech\Task3\Task3\bin\Debug\Task3.exe.config
+E:\ReizTech\Task3\Task3\bin\Debug\Task3.exe
+E:\ReizTech\Task3\Task3\bin\Debug\Task3.pdb
+E:\ReizTech\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+E:\ReizTech\Task3\Task3\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+E:\ReizTech\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\ReizTech\Task3\Task3\obj\Debug\Task3.exe
+E:\ReizTech\Task3\Task3\obj\Debug\Task3.pdb
